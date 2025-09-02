@@ -1,1 +1,37 @@
-# aman-kumar7562-aman-kumar7562
+# Aman Kumar | Observability Engineer | Aspiring SRE 🚀  
+
+🔹 **Incident Commander (Cisco WebEx)** – Led real-time incident resolution & service restoration across global platforms.  
+🔹 **Observability Specialist** – Grafana, Prometheus, PagerDuty, ThousandEyes for proactive monitoring & latency detection.  
+🔹 **Terraform Learner** – Hands-on AWS provisioning labs (EC2, S3, Variables, Outputs, Remote State).  
+🔹 **Future Goals** – AIOps, Kubernetes, GitOps, Cloud-native automation.  
+
+---
+
+## 💡 What I Do
+- ⚡ **Incident Response** – Reducing MTTR, ensuring 99.9%+ uptime.  
+- 📊 **Monitoring & Dashboards** – Building Grafana/Prometheus dashboards for metrics, logs, and traces.  
+- ☁️ **Cloud Infra as Code** – Terraform AWS labs (EC2, S3, VPC).  
+- 🔮 **Learning Path** – Transitioning from ITIL/Operations → SRE → AIOps.  
+
+---
+
+## 🔭 Current Projects
+- [terraform-aws-lab](https://github.com/aman-kumar7562/terraform-aws-lab) – My beginner Terraform practice with AWS.  
+- Observability Playbooks – Notes on Grafana, Prometheus, PagerDuty.  
+- Upcoming: **AIOps Labs** (Anomaly detection, ML-powered alerts).  
+
+---
+
+## 📈 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-kumar7562&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman-kumar7562&theme=tokyonight)  
+
+---
+
+## 🌐 Connect
+- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-observability)  
+- 📄 [Resume (PDF)](link-to-your-resume)  
+
+---
+⭐ **Learning every day → from Incident Management to SRE & AIOps!** ⭐
