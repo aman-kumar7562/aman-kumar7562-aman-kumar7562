@@ -31,7 +31,8 @@
 ## 🌐 Connect
 - 📧 Email: aman.kumar7562@gmail.com  
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/aman-kumar-observability](https://www.linkedin.com/in/amankumar7562/))  
-- 📄 [Resume (PDF)]([link-to-your-resume](https://github.com/aman-kumar7562/resume-cover-letter/blob/main/Aman%20Kumar%20-%20Observability%20Engineer%20_%20Incident%20Commander.pdf))  
+- 📄 [Resume (PDF)]([link-to-your-resume](https://github.com/aman-kumar7562/resume-cover-letter/blob/main/Aman%20Kumar%20-%20Observability%20Engineer%20_%20Incident%20Commander.pdf))
+- https://docs.google.com/document/d/1uA5oOD1niSDqN0bTNAagGQf6fm6KBhqbGdPa1JALylY/edit?tab=t.0#heading=h.4oth9lce22gf
 
 ---
 ⭐ **Learning every day → from Incident Management to SRE & AIOps!** ⭐
