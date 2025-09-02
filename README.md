@@ -29,8 +29,8 @@
 ---
 
 ## 🌐 Connect
-- 📧 Email: your.email@example.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-observability)  
+- 📧 Email: aman.kumar7562@gmail.com  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/aman-kumar-observability](https://www.linkedin.com/in/amankumar7562/))  
 - 📄 [Resume (PDF)](link-to-your-resume)  
 
 ---
