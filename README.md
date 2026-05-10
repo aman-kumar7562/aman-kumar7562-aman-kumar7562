@@ -9,10 +9,12 @@ Experienced in observability platforms including Grafana, Prometheus, ThousandEy
 ---
 
 ## 💡 What I Do
-- ⚡ **Incident Response** – Reducing MTTR, ensuring 99.9%+ uptime.  
-- 📊 **Monitoring & Dashboards** – Building Grafana/Prometheus dashboards for metrics, logs, and traces.  
-- ☁️ **Cloud Infra as Code** – Terraform AWS labs (EC2, S3, VPC).  
-- 🔮 **Learning Path** – Transitioning from ITIL/Operations → SRE → AIOps.  
+🔹 Lead P1/P2 incident bridges across globally distributed systems
+🔹 Coordinate engineering, infrastructure, and service teams during outages
+🔹 Drive incident communication, impact tracking, and stakeholder updates
+🔹 Support operational reliability using observability platforms and telemetry
+🔹 Participate in RCA reviews and continuous improvement initiatives
+🔹 Handle failover/failback activities during large-scale service disruptions
 
 ---
 
