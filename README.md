@@ -1,41 +1,84 @@
 # Senior Incident Commander | Reliability Operations | Observability 🚀  
 
-Senior Incident Commander with 14+ years of experience managing large-scale production incidents, operational reliability, and cross-functional coordination across global SaaS environments.
+# Aman Kumar | Incident Commander | Reliability & Observability Operations
 
-Currently supporting Cisco Webex platform operations with exposure to 2700+ microservices, driving incident response, stakeholder communication, service restoration, and operational improvements.
+Senior Incident Commander and Observability professional with 14+ years of experience managing large-scale production incidents, operational reliability, and cross-functional coordination across global SaaS environments.
 
-Experienced in observability platforms including Grafana, Prometheus, ThousandEyes, PagerDuty, and ServiceNow.
-
----
-
-## 💡 What I Do
-🔹 Lead P1/P2 incident bridges across globally distributed systems
-🔹 Coordinate engineering, infrastructure, and service teams during outages
-🔹 Drive incident communication, impact tracking, and stakeholder updates
-🔹 Support operational reliability using observability platforms and telemetry
-🔹 Participate in RCA reviews and continuous improvement initiatives
-🔹 Handle failover/failback activities during large-scale service disruptions
+Currently supporting Cisco Webex platform operations with exposure to 2700+ microservices, driving incident response, stakeholder communication, service restoration, and operational improvements across globally distributed systems.
 
 ---
 
-## 🔭 Current Projects
-- [terraform-aws-lab](https://github.com/aman-kumar7562/terraform-aws-lab) – My beginner Terraform practice with AWS.  
-- Observability Playbooks – Notes on Grafana, Prometheus, PagerDuty.  
-- Upcoming: **AIOps Labs** (Anomaly detection, ML-powered alerts).  
+## Core Experience
+
+- Lead P1/P2 incident response bridges across distributed production systems
+- Coordinate engineering, infrastructure, networking, and service teams during outages
+- Drive incident communication, impact tracking, escalation management, and executive updates
+- Support operational reliability using observability platforms and telemetry analysis
+- Participate in RCA reviews, corrective actions, and operational improvement initiatives
+- Handle failover/failback activities during large-scale infrastructure or network events
+- Support release reliability and production change coordination
 
 ---
 
-## 📈 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-kumar7562&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman-kumar7562&theme=tokyonight)  
+## Observability & Operations
+
+### Platforms & Tools
+- Grafana
+- Prometheus
+- ThousandEyes
+- PagerDuty
+- ServiceNow
+- Jira
+- Confluence
+
+### Operational Areas
+- Incident Management
+- Reliability Operations
+- MTTR Reduction
+- Alert Triage
+- RCA Coordination
+- Operational Excellence
+- Distributed Systems Operations
 
 ---
 
-## 🌐 Connect
-- 📧 Email: aman.kumar7562@gmail.com  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/aman-kumar-observability](https://www.linkedin.com/in/amankumar7562/))  
-- 📄 [Resume (PDF)]([link-to-your-resume](https://github.com/aman-kumar7562/resume-cover-letter/blob/main/Aman%20Kumar%20-%20Observability%20Engineer%20_%20Incident%20Commander.pdf))
-- https://docs.google.com/document/d/1uA5oOD1niSDqN0bTNAagGQf6fm6KBhqbGdPa1JALylY/edit?tab=t.0#heading=h.4oth9lce22gf
+## Cloud & Technical Exposure
+
+- AWS
+- Kubernetes
+- Linux
+- CI/CD Operations
+- Observability Workflows
+- Production Change Management
+
+---
+
+## Current Focus
+
+- Reliability Engineering Practices
+- Observability-driven Operations
+- Incident Workflow Automation
+- AI-assisted Operational Intelligence (AIOps)
+- Large-scale Distributed System Reliability
+
+---
+
+## Certifications
+
+- Certified Kubernetes Administrator (CKA)
+- AWS Cloud Practitioner
+- ITIL V3 Foundation
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/amankumar7562
+- Medium: https://medium.com/@aman.kumar7562
+
+---
+
+> Focused on operational reliability, incident leadership, and observability across large-scale distributed platforms.
 
 ---
 ⭐ **Learning every day → from Incident Management to SRE & AIOps!** ⭐
