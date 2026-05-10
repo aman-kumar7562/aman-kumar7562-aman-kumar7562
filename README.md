@@ -1,4 +1,4 @@
-# Aman Kumar | Observability Engineer | Aspiring SRE 🚀  
+# Senior Incident Commander | Reliability Operations | Observability 🚀  
 
 🔹 **Incident Commander (Cisco WebEx)** – Led real-time incident resolution & service restoration across global platforms.  
 🔹 **Observability Specialist** – Grafana, Prometheus, PagerDuty, ThousandEyes for proactive monitoring & latency detection.  
