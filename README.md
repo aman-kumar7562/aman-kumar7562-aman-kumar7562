@@ -1,9 +1,10 @@
 # Senior Incident Commander | Reliability Operations | Observability 🚀  
 
-🔹 **Incident Commander (Cisco WebEx)** – Led real-time incident resolution & service restoration across global platforms.  
-🔹 **Observability Specialist** – Grafana, Prometheus, PagerDuty, ThousandEyes for proactive monitoring & latency detection.  
-🔹 **Terraform Learner** – Hands-on AWS provisioning labs (EC2, S3, Variables, Outputs, Remote State).  
-🔹 **Future Goals** – AIOps, Kubernetes, GitOps, Cloud-native automation.  
+Senior Incident Commander with 14+ years of experience managing large-scale production incidents, operational reliability, and cross-functional coordination across global SaaS environments.
+
+Currently supporting Cisco Webex platform operations with exposure to 2700+ microservices, driving incident response, stakeholder communication, service restoration, and operational improvements.
+
+Experienced in observability platforms including Grafana, Prometheus, ThousandEyes, PagerDuty, and ServiceNow.
 
 ---
 
